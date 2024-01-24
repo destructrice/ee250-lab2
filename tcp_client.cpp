@@ -14,8 +14,8 @@ int main(int argc, char const *argv[])
     char socket_read_buffer[1024];
     
     // TODO: Fill out the server ip and port
-    std::string server_ip = "127.0.0.1"; // Change this to your server's IP
-    std::string server_port = "8080";    // Change this to your server's port
+    std::string server_ip = "172.20.10.4"; // Change this to your server's IP
+    std::string server_port = "5000";    // Change this to your server's port
 
     int opt = 1;
     int client_fd = socket(AF_INET, SOCK_STREAM, 0); // TODO: Create a TCP socket()
