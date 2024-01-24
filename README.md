@@ -1,8 +1,8 @@
 # Lab 2
 
 ## Team Members
-- team member 1
-- team member 2
+- Sriya Kuruppath
+- Victoria Lawton
 
 ## Lab Question Answers
 
