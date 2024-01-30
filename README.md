@@ -33,3 +33,13 @@ Q2: What is a UNIX file descriptor and file descriptor table?
 Q3: What is a struct? What's the structure of sockaddr_in?
 
 A struct in C++ is a method to group data in one place under a name.
+
+Q4: What are the input parameters and return value of socket()?
+
+Q5: What are the input parameters of bind() and listen()?
+
+Q6: Why use while(1)? Based on the code below, what problems might occur if there are multiple simultaneous connections to handle?
+
+Q7: Research how the command fork(0) works. How can it be applied here to better handle multiple connections?
+
+Q8: This program makes several system calls such as bind() and listen(). What exactly is a system call?
