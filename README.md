@@ -2,6 +2,7 @@
 
 ## Team Members
 Victoria Lawton
+
 Sriya Kuruppath
 
 ## Lab Question Answers
@@ -23,11 +24,11 @@ There was a latency for some of the entries. Meaning, some numbers showed up imm
 ## TCP Client & Server
 
 Q1: What is argc and *argv[]?
-
+Argc stands for argument count and represents how many arguments there are. *argv[] stands for argument vector and it represents the actual list of command line arguments.
 
 
 Q2: What is a UNIX file descriptor and file descriptor table?
-
+A file descriptor is a unique integer that identifies an open file within a process. The file descriptor table is an array where the index corresponds to the file descriptor, and the value stored at that index is a reference to the file object or resource associated with that file descriptor.
 
 
 Q3: What is a struct? What's the structure of sockaddr_in?
